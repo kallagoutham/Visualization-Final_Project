@@ -1,0 +1,11 @@
+/cse-564-finalproject-be/venv
+/cse-564-finalproject-be/.venv
+/cse-564-finalproject-fe/node_modules
+/initial_dataset
+/datasets
+/filtered_datasets
+
+*.pyc
+__pycache__/
+.DS_Store
+.env
